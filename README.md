@@ -1,2 +1,2 @@
 # polls
-Projeto enquentes Jcavi
+Projeto Django-Enquentes (Jcavi)
